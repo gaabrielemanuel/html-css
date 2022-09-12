@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+body {
+    background-image: linear-gradient(to right,#b4c1ee, #0b6370 );
+    width: 600px;
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+    text-align: center;
+    font-family: candara, sanserif;
+    font-size: 25px;
+    color: #00216F;
+  
+  
+  }
+
+  a {
+    color: #00216F;
+    cursor: pointer;
+    text-decoration: none;
+
+}
+a:visited {
+  color: darkred;
+}
+
+a:hover {
+  text-decoration:solid;
+  color: rgb(44, 24, 219);
+}
+
+a:active {
+  color: black;
+}

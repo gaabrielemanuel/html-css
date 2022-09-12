@@ -1,0 +1,33 @@
+@charset "UTF-8"
+
+*{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+body{
+    background-image: linear-gradient(to right,#99DFF2, #266273 );
+}
+
+main{
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px rgba(23, 39, 43, 0.815);
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+}
+
+h1{
+    color:#266273;
+    text-align: center;
+    text-shadow: 1px 1px 2px #0d2127;
+}
+
+h2{
+    color: #7BB3C2;
+}
+
+p {
+    text-align: justify;
+}
